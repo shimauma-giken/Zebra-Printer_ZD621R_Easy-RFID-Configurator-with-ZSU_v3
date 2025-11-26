@@ -81,6 +81,23 @@ UPDATE: 2025/11/23
 
 </br>
 
+</br>
+
+### 「参考」ラベルとセンサー
+
+##### 連続紙・レシート
+  <img width=400 src="https://docs.zebra.com/content/dam/techpubs/media/printers/industrial/zt411-421/g-media-continuous.svg/_jcr_content/renditions/original">
+  </br>
+
+  ##### ギャップ・ノッチ
+  <img width=400 src="https://docs.zebra.com/content/dam/techpubs/media/printers/industrial/zt230/g-zt230-media-noncont-gaps.png/_jcr_content/renditions/original">
+  </br>
+
+  ##### 黒マーク
+  <img width=400 src="https://docs.zebra.com/content/dam/techpubs/media/printers/industrial/zt230/g-zt230-media-noncont-blk-mrk.png/_jcr_content/renditions/original">
+  </br>
+    </br>
+
 
 
 ## 3. 印字圧力の調整　　
@@ -182,8 +199,6 @@ ZD621Rは実施不要。
 <br>
 
 **※ 用紙キャリブレーションができない場合はマニュアルキャリブレーションを実施すること。**
-
-
 
 [参考：Youtube: ZT411 Printer: Ribbon and Media Calibration /Zebra](https://www.youtube.com/watch?v=-80-NPebwGA)
 
